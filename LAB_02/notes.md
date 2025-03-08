@@ -7,3 +7,4 @@ Clouds Type
 2. Private
 3. Hybrid
 
+RTO & RPO
